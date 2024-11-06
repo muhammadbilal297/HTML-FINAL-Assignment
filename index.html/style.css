@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    text-transform: under line;
+}
+.heading{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    color: brown;
+    text-align:center;
+}
+h2{
+    background: rebeccapurple;
+    color: #000;
+}
+h3{
+    background-color: aqua;
+    color:green;
+}
+h4{
+    color: chocolate;
+    background-color: blueviolet;
+}
