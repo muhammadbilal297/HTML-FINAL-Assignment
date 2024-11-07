@@ -1,40 +1,26 @@
 body{
-    background-color: antiquewhite;
+    background-color: darkolivegreen;
 }
 h1{
-    color: aqua;
-    text-align: center;
-    text-transform: under line;
-}
-.heading{
-    background-color: white;
-    margin: 0px;
-    padding: 0px;
-    color: brown;
-    text-align:center;
-}
-h2{
-    background: rebeccapurple;
-    color: #000;
-}
-h3{
-    background-color: aqua;
-    color:green;
+    color: aquamarine;
+    text-transform: capitalize;
+    text-decoration: underline;
+    
+    
 }
 h4{
-    color: chocolate;
-    background-color: blueviolet;
+    color: aquamarine;
 }
-body{
-    background-color: pink;
+kuch-bhi{
+    color: red;
 }
-.id{
-    color: chartreuse;
+.hamza{
+      text-align: center;
 }
-    
-
-
-
-
-
+.kuch{
+    text-align: center;
+}
+.i{
+    color:yellow;
+}
 
